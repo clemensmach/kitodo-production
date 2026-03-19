@@ -4402,6 +4402,7 @@ min 700px
     #search-form\:search-field {
         display: table-cell;
         vertical-align: top;
+        float: left;
     }
 
     #search-form\:search-field-short {
